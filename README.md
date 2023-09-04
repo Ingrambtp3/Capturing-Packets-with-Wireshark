@@ -1,6 +1,9 @@
 # Capturing-Packets-with-Wireshark
+
 In this guided project, I used Wireshark to capture packets on a specific interface and use filters to observe website traffic.
+
 Here is the link to the post I made on LinkedIn: https://www.linkedin.com/posts/allon-ingram-0a0803226_completion-certificate-for-wireshark-for-activity-7095944502657351681-XkPi?utm_source=share&utm_medium=member_desktop
+
   Wireshark is a network protocol analyzer or in other words an application that captures packets from a network connection such as from your PC to the internet. A packet is basically a small piece of a bigger message and data sent over the internet are divided into packets. They are also the basic units of communication over a TCP/IP network.
     Wireshark is a powerful and widely used network protocol analyzer that allows Security(SOC) Analysts to capture and inspect nework packets in real time. Wireshark provides a detailed view of network traffic, allowing professionals to analyze, troubleshoot, and detect potential security threats. 
     
